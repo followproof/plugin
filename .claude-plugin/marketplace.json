@@ -1,0 +1,15 @@
+{
+  "name": "followproof",
+  "owner": {
+    "name": "Followproof",
+    "email": "hello@followproof.com"
+  },
+  "description": "Influencer audience check by Followproof: influencer audit and vetting for Claude.",
+  "plugins": [
+    {
+      "name": "followproof",
+      "source": "./",
+      "description": "Influencer audit and vetting: check a creator's audience quality and engagement rate, compare creators and find new ones by niche, through your Followproof account."
+    }
+  ]
+}

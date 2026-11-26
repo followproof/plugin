@@ -1,0 +1,20 @@
+{
+  "name": "followproof",
+  "version": "1.0.0",
+  "description": "Influencer audit and vetting for Instagram, TikTok and YouTube creators: audience quality check with its signals, engagement rate check against same-size accounts, sponsored-post rate estimates, compare and creator search by niche.",
+  "author": {
+    "name": "Followproof",
+    "url": "https://followproof.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Influencer audience check by Followproof",
+    "shortDescription": "Influencer audit: audience quality and engagement rate checks",
+    "longDescription": "Influencer audit and influencer vetting before you pay a creator. Get an audience quality check with the signals behind it, an engagement rate check against accounts of the same size, posting cadence and an estimated sponsored-post rate; compare finalists side by side; find creators by niche, size and country; keep shortlists for your influencer marketing campaigns. Uses your Followproof plan's allowance.",
+    "developerName": "Followproof",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Is @nasa's Instagram audience real, and what would a sponsored post cost?"
+  }
+}

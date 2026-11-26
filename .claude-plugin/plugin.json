@@ -1,0 +1,15 @@
+{
+  "name": "followproof",
+  "version": "1.0.0",
+  "description": "Influencer audit and vetting for Instagram, TikTok and YouTube creators from Claude: audience quality check with its signals, engagement rate check against same-size accounts, sponsored-post rate estimates, side-by-side compare and creator search by niche. Uses your Followproof plan's checks, reports and searches.",
+  "author": {
+    "name": "Followproof",
+    "url": "https://followproof.com"
+  },
+  "homepage": "https://followproof.com/developers/",
+  "repository": "https://github.com/followproof/plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "claude", "influencer audit", "influencer vetting", "influencer marketing", "audience quality", "engagement rate check", "creator due diligence", "fake followers", "creator vetting"],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://followproof.com/privacy/"
+}

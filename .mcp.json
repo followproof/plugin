@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "followproof": {
+      "type": "http",
+      "url": "https://followproof.com/mcp"
+    }
+  }
+}
